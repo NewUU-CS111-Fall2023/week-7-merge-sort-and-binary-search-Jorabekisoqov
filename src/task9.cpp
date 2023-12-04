@@ -36,3 +36,6 @@ int main() {
 
     return 0;
 }
+
+
+//O(n^2)

@@ -24,7 +24,12 @@ int main() {
     cin >> n >> k;
 
     int result = kthFactor(n, k);
-    cout << "Kth factor of " << n << " is: " << result << endl;
+    cout  result << endl;
 
     return 0;
 }
+
+
+
+
+//O(n)

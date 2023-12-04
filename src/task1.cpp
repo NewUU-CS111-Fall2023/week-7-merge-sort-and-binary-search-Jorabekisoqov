@@ -52,3 +52,7 @@ int main() {
 
     return 0;
 }
+
+
+
+//time complexity O(n^2)
